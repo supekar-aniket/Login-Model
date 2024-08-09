@@ -59,7 +59,7 @@ This project is a simple React application that demonstrates the implementation 
 
 ## More Projects 
 
-    ```bash
-    https://github.com/supekar-aniket
-    ```
+  ```
+   https://github.com/supekar-aniket
+  ```
 
